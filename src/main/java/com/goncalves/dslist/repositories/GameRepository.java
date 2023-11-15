@@ -7,8 +7,4 @@ import com.goncalves.dslist.entities.Games;
 public interface GameRepository extends JpaRepository<Games, Long> {
     
 
-
-
-
-
 }
